@@ -1,0 +1,3 @@
+[submodule "NDS39.Owin"]
+	path = NDS39.Owin
+	url = https://github.com/masaru-b-cl/NDS39.Owin.git

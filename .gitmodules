@@ -1,3 +1,6 @@
 [submodule "NDS39.Owin"]
 	path = NDS39.Owin
 	url = https://github.com/masaru-b-cl/NDS39.Owin.git
+[submodule "NDS39.AspNet5"]
+	path = NDS39.AspNet5
+	url = https://github.com/masaru-b-cl/NDS39.AspNet5.git
